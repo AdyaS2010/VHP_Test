@@ -1,3 +1,4 @@
+/*
 // Define the main application object
 const app = {
     // Initialize the application
@@ -68,3 +69,4 @@ document.addEventListener('DOMContentLoaded', () => {
     </body>
     </html>
 */ 
+*/
